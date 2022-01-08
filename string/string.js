@@ -94,8 +94,6 @@ let x = new String ("Jhon");
     let lastName = "Doe";
     console.log(`welcome ${firstName}, ${lastName}`);
 
-    console.log("hello");
-
 
 app.listen(3000);
 
